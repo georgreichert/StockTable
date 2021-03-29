@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# allow Hashtable.exe
+!Hashtable.exe
